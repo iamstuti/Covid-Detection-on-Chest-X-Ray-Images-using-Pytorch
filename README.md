@@ -9,4 +9,9 @@ The image classfication is done on 3 classes:
   2. Viral  Pneumonia
   3. Covid-19
   
+  ## **TO-DO**
+  
+  - [ ] Use my own Chest XRays taken during COVID hospitalization and post discharge as test data to the model 
+  
+  
   

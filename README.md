@@ -1,4 +1,4 @@
-# Covid-Detection-on-Chest-X-Ray-images-using-Pytorch
+# Covid-Detection-on-Chest-X-Ray-images
 
 The dataset can be taken from Kaggle dataset https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
 
